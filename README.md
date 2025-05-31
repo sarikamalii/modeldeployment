@@ -1,1 +1,1 @@
-Demo of Liner Regression using Streamlit 
+Demo of Linear Regression using Streamlit 
